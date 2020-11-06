@@ -10,12 +10,12 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>BAYU - MAYA | Undangan Online</title>
-	<meta property="og:title" content="BAYU - MAYA | Undangan Online" />
+	<title>YUDHA - DIRA | Undangan Online</title>
+	<meta property="og:title" content="YUDHA - DIRA | Undangan Online" />
 	<meta property="og:image" content="images/thumb.jpg" />
 	<meta property="og:url" content="mahesora.id" />
 	<meta property="og:site_name" content="Undangan Online" />
-	<meta property="og:description" content="Undangan Pawiwahan pada 2020-11-06" />
+	<meta property="og:description" content="Undangan Pawiwahan pada 2020-11-20" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
@@ -113,9 +113,9 @@
 					<div class="row row-bottom-padded-md animate-box">
 						<div class="col-md-12 text-center">
 							<div class="col-md-2" style="background-color: #ffffffba; padding-top:20px; padding-bottom:20px">
-								<p style="font-family: 'Kaushan Script', cursive; font-size: 28px; margin-top: 20px; color: #000;"><strong><em>BRIPTU I KADEK BAYU APRIANA, S.H.</em></strong></p>
-								<p style='font-family: "Open Sans", Arial, sans-serif; font-size: 14px; color: #000;'>Putra Kedua dari pasangan<br>Bapak I MADE SUMERTA <br>&<br> Ibu Alm. NI NENGAH RUKMINIATI</p>
-								<p style='font-family: "Open Sans", Arial, sans-serif; font-size: 14px; color: #000;'>Br. Dinas Celuk, Desa Tiyingtali, Kec. Abang, Kab. Karangasem, Bali</p>
+								<p style="font-family: 'Kaushan Script', cursive; font-size: 28px; margin-top: 20px; color: #000; text-transform: uppercase;"><strong><em>I Ketut Yudha Prakasa, SH</em></strong></p>
+								<p style='font-family: "Open Sans", Arial, sans-serif; font-size: 14px; color: #000;'>Putra Kedua dari pasangan<br>Bapak I Wayan Sadia, S.pd., M.pd</span><br>&<br> Ibu Ni Wayan Seruni, S.pd</p>
+								<!-- <p style='font-family: "Open Sans", Arial, sans-serif; font-size: 14px; color: #000;'>Br. Dinas Celuk, Desa Tiyingtali, Kec. Abang, Kab. Karangasem, Bali</p> -->
 
 							</div>
 							<div class="col-md-3" id="f_left">
@@ -128,9 +128,9 @@
 								<img src="images/right.jpg" class="img-responsive" style="margin: 0px auto; border:solid 3px #000">
 							</div>
 							<div class="col-md-2" style="background-color: #ffffffba;  padding-top:20px; padding-bottom:20px">
-								<p style="font-family: 'Kaushan Script', cursive; font-size: 28px; margin-top: 20px; color: #000;"><strong><em>NI PUTU MAYA WITARININGSIH, S.Kel.</em></strong></p>
-								<p style='font-family: "Open Sans", Arial, sans-serif; font-size: 14px; color: #000;'>Putri Pertama dari pasangan<br>Bapak I MADE KUTA WIRYA ASTAWA <br>&<br> Ibu NI KETUT PUTRI SULASIH</p>
-								<p style='font-family: "Open Sans", Arial, sans-serif; font-size: 14px; color: #000;'>Perumahan Padang Asri IV / 7 , Padang Sambian Kelod, Denbar, Denpasar</p>
+								<p style="font-family: 'Kaushan Script', cursive; font-size: 28px; margin-top: 20px; color: #000; text-transform: uppercase;"><strong><em>Ni Komang Ayu Weda Swari Dira, SH</em></strong></p>
+								<p style='font-family: "Open Sans", Arial, sans-serif; font-size: 14px; color: #000;'>Putri Pertama dari pasangan<br>Bapak I Made Sudira <br>&<br> Ibu Dra. Ni Ketut Riani, M.Si</p>
+								<!-- <p style='font-family: "Open Sans", Arial, sans-serif; font-size: 14px; color: #000;'>Perumahan Padang Asri IV / 7 , Padang Sambian Kelod, Denbar, Denpasar</p> -->
 							</div>
 						</div>
 					</div>
@@ -142,10 +142,10 @@
 						<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
 							<div class="col-sm-12" style="background-color: #ffffffba; padding-top:30px; padding-bottom:30px">
 								<p style="color: #000; font-size:28px">waktu dan lokasi</p>
-								<h2 style="font-family: 'Kaushan Script', cursive; color:#000; font-size:28px; margin:0">Jumat, 06 November 2020</h2>
+								<h2 style="font-family: 'Kaushan Script', cursive; color:#000; font-size:28px; margin:0">Jumat, 20 November 2020</h2>
 								<br>
-								<p><em>14.00 wita - selesai <br><br> Br. Dinas Celuk, Desa Tiyingtali, Kec. Abang, Kab. Karangasem, Bali</em></p>
-								<a class="btn btn-danger btn-lg" href="https://goo.gl/maps/mwXidWKQyMrD1J7W7" style="width:100%; margin-top: 5px; font-family: monospace;"><span class="	glyphicon glyphicon-upload"></span> Petunjuk Arah</a>
+								<p><em>11.00 wita - selesai <br><br> Jalan Raya Penulisan, Banjar Kuta Dalem, Ds. Sukawana, Kec. Kintamani, Kab. Bangli</em></p>
+								<a class="btn btn-danger btn-lg" href="https://goo.gl/maps/8AWfkMSM9ZwNg4aT7" style="width:100%; margin-top: 5px; font-family: monospace;"><span class="	glyphicon glyphicon-upload"></span> Petunjuk Arah</a>
 							</div>
 						</div>
 					</div>
@@ -245,7 +245,7 @@
 							</div>
 							<div class="col-md-6 col-md-offset-3 text-center" style="padding-bottom:50px">
 								<p>
-									<h3 style="color: #fff;"><i class="fa fa-music" aria-hidden="true"></i> Music by <b>Brian McKnight - Marry Your Daughter</b></h3>
+									<h3 style="color: #fff;"><i class="fa fa-music" aria-hidden="true"></i> Music by <b>IPANG - KAMU</b></h3>
 								</p>
 								<p class="fh5co-social-icons">
 									<a href="https://api.whatsapp.com/send?phone=6285738209427&text=Saya%20mau%20membuat%20undangan%20online&source=&data=" style="color:white"><i class="fa fa-whatsapp"></i></a>
@@ -346,7 +346,7 @@
 		</script>
 		<script>
 			// Set the date we're counting down to
-			var countDownDate = new Date("2020/11/20").getTime();
+			var countDownDate = new Date("2020/11/20 23:59:59").getTime();
 			// var today = new Date();
 			// today.setHours(today.getHours()+1);
 			// alert(today);
