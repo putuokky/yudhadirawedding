@@ -114,7 +114,7 @@
 						<div class="col-md-12 text-center">
 							<div class="col-md-2" style="background-color: #ffffffba; padding-top:20px; padding-bottom:20px">
 								<p style="font-family: 'Kaushan Script', cursive; font-size: 28px; margin-top: 20px; color: #000; text-transform: uppercase;"><strong><em>I Ketut Yudha Prakasa, SH</em></strong></p>
-								<p style='font-family: "Open Sans", Arial, sans-serif; font-size: 14px; color: #000;'>Putra Kedua dari pasangan<br>Bapak I Wayan Sadia, S.pd., M.pd</span><br>&<br> Ibu Ni Wayan Seruni, S.pd</p>
+								<p style='font-family: "Open Sans", Arial, sans-serif; font-size: 14px; color: #000;'>Putra Keempat dari pasangan<br>Bapak I Wayan Sadia, S.pd., M.pd</span><br>&<br> Ibu Ni Wayan Seruni, S.pd</p>
 								<!-- <p style='font-family: "Open Sans", Arial, sans-serif; font-size: 14px; color: #000;'>Br. Dinas Celuk, Desa Tiyingtali, Kec. Abang, Kab. Karangasem, Bali</p> -->
 
 							</div>
@@ -129,7 +129,7 @@
 							</div>
 							<div class="col-md-2" style="background-color: #ffffffba;  padding-top:20px; padding-bottom:20px">
 								<p style="font-family: 'Kaushan Script', cursive; font-size: 28px; margin-top: 20px; color: #000; text-transform: uppercase;"><strong><em>Ni Komang Ayu Weda Swari Dira, SH</em></strong></p>
-								<p style='font-family: "Open Sans", Arial, sans-serif; font-size: 14px; color: #000;'>Putri Pertama dari pasangan<br>Bapak I Made Sudira <br>&<br> Ibu Dra. Ni Ketut Riani, M.Si</p>
+								<p style='font-family: "Open Sans", Arial, sans-serif; font-size: 14px; color: #000;'>Putri Ketiga dari pasangan<br>Bapak I Made Sudira <br>&<br> Ibu Dra. Ni Ketut Riani, M.Si</p>
 								<!-- <p style='font-family: "Open Sans", Arial, sans-serif; font-size: 14px; color: #000;'>Perumahan Padang Asri IV / 7 , Padang Sambian Kelod, Denbar, Denpasar</p> -->
 							</div>
 						</div>
