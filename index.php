@@ -99,7 +99,7 @@
 
 
 
-      <div id="fh5co-couple" class="fh5co-section-gray" style="background-color: #eeeeee; background-position: left !important; background-size: cover; padding:0">
+      <div id="fh5co-couple" class="fh5co-section-gray" style="background-image: url(images/background-daun-1.jpg); background-size: cover; background-position: 5ch; padding:0">
         <div class="container">
           <div class="row animate-box">
             <div class="col-md-8 col-md-offset-2">
@@ -135,8 +135,6 @@
             </div>
           </div>
         </div>
-      </div>
-      <div id="fh5co-when-where" class="fh5co-section-gray" style="background-color: #eeeeee; background-position: left !important; background-size: cover; padding:0">
         <div class="container">
           <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
