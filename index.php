@@ -12,7 +12,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>YUDHA - DIRA | Undangan Online</title>
   <meta property="og:title" content="YUDHA - DIRA | Undangan Online" />
-  <meta property="og:image" content="images/thumb.jpg" />
+  <meta property="og:image" content="images/image7.jpeg" />
   <meta property="og:url" content="mahesora.id" />
   <meta property="og:site_name" content="Undangan Online" />
   <meta property="og:description" content="Undangan Pawiwahan pada 2020-11-20" />
@@ -119,13 +119,13 @@
 
               </div>
               <div class="col-md-3" id="f_left">
-                <img src="images/left.jpg" class="img-responsive" style="margin: 0px auto; border:solid 3px #000">
+                <img src="images/left.png" class="img-responsive" style="margin: 0px auto; border:solid 3px #000">
               </div>
               <div class="col-md-2">
                 <h2 class="amp-center" style="margin-top: 10%"><i class="glyphicon glyphicon-heart"></i></h2>
               </div>
               <div class="col-md-3" id="f_right">
-                <img src="images/right.jpg" class="img-responsive" style="margin: 0px auto; border:solid 3px #000">
+                <img src="images/right.png" class="img-responsive" style="margin: 0px auto; border:solid 3px #000">
               </div>
               <div class="col-md-2" style="background-color: #ffffffba;  padding-top:20px; padding-bottom:20px">
                 <p style="font-family: 'Kaushan Script', cursive; font-size: 28px; margin-top: 20px; color: #000; text-transform: uppercase;"><strong><em>Ni Komang Ayu Weda Swari Dira, SH</em></strong></p>
@@ -159,7 +159,7 @@
         </div>
       </div>
 
-      <div id="fh5co-started" style="background-image: url(images/thumb.jpg); background-position: center center !important;">
+      <div id="fh5co-started" style="background-image: url(images/image7.jpeg); background-position: center center !important;">
         <div class="overlay"></div>
         <div class="container">
           <div class="row animate-box">
@@ -194,37 +194,37 @@
           <div class="row">
             <div class="col-md-6">
               <div class="gallery">
-                <img src="images/gal1.jpg" class="img-responsive" alt="Undangan Online Gallery 2">
+                <img src="images/image0.jpeg" class="img-responsive" alt="Undangan Online Gallery 1">
+              </div>
+              <div class=" gallery">
+                <img src="images/image1.jpeg" class="img-responsive" alt="Undangan Online Gallery 2">
               </div>
               <div class="gallery">
-                <img src="images/gal2.jpg" class="img-responsive" alt="Undangan Online Gallery 2">
+                <img src="images/image2.jpeg" class="img-responsive" alt="Undangan Online Gallery 3">
               </div>
               <div class="gallery">
-                <img src="images/gal3.jpg" class="img-responsive" alt="Undangan Online Gallery 3">
+                <img src="images/image3.jpeg" class="img-responsive" alt="Undangan Online Gallery 4">
               </div>
               <div class="gallery">
-                <img src="images/gal4.jpg" class="img-responsive" alt="Undangan Online Gallery 4">
-              </div>
-              <div class="gallery">
-                <img src="images/gal5.jpg" class="img-responsive" alt="Undangan Online Gallery 5">
+                <img src="images/image4.jpeg" class="img-responsive" alt="Undangan Online Gallery 5">
               </div>
             </div>
             <div class="col-md-6">
 
               <div class="gallery">
-                <img src="images/gal6.jpg" class="img-responsive" alt="Undangan Online Gallery 6">
+                <img src="images/image5.jpeg" class="img-responsive" alt="Undangan Online Gallery 6">
               </div>
               <div class="gallery">
-                <img src="images/gal7.jpg" class="img-responsive" alt="Undangan Online Gallery 5">
+                <img src="images/image6.jpeg" class="img-responsive" alt="Undangan Online Gallery 5">
               </div>
               <div class="gallery">
-                <img src="images/gal8.jpg" class="img-responsive" alt="Undangan Online Gallery 6">
+                <img src="images/image7.jpeg" class="img-responsive" alt="Undangan Online Gallery 6">
               </div>
               <div class="gallery">
-                <img src="images/gal9.jpg" class="img-responsive" alt="Undangan Online Gallery 5">
+                <img src="images/image8.jpeg" class="img-responsive" alt="Undangan Online Gallery 5">
               </div>
               <div class="gallery">
-                <img src="images/gal10.jpg" class="img-responsive" alt="Undangan Online Gallery 6">
+                <img src="images/image9.jpeg" class="img-responsive" alt="Undangan Online Gallery 6">
               </div>
             </div>
           </div>
@@ -272,7 +272,7 @@
 
     <style type="text/css">
       #tops {
-        background-image: url(images/gal4.jpg);
+        background-image: url(images/image8.jpeg);
         background-position: center !important;
         z-index: 99;
         background-size: cover;
@@ -280,7 +280,7 @@
 
       @media only screen and (min-width: 600px) {
         #tops {
-          background-image: url(images/gal3.jpg);
+          background-image: url(images/image6.jpeg);
           background-position: center !important;
           position: relative;
           background-size: cover;
